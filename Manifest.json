@@ -1,7 +1,7 @@
 {
-  "name": "HaiFlix",
-  "short_name": "HaiFlix",
-  "description": "Dive into HaiFlix — your ultimate destination for immersive movie streaming, binge-worthy webseries, and seamless live TV entertainment. Experience your favorite content anytime, anywhere with stunning quality and a smooth, modern interface.",
+  "name": "HaiCloud",
+  "short_name": "HaiCloud",
+  "description": "HaiCloud is a secure, cloud-based text and code editor powered by HaldarAi. Upload, edit, and manage your HTML, CSS, JS, and Python snippets from anywhere.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
